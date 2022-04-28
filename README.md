@@ -8,7 +8,7 @@ Storing data in MongoDB
 
 (To try out, upload the given demo.csv file.)
 
-<img width="647" alt="image" src="https://user-images.githubusercontent.com/86217607/165720166-af540332-145c-4638-af12-0b5ca9b8b65f.png">
+<img width="230" alt="image" src="https://user-images.githubusercontent.com/86217607/165720519-7240e89d-475f-474d-bf75-665023823038.png">
 
 Parsed data:
 
