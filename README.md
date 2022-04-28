@@ -6,9 +6,11 @@ Using multer to handle file upload
 
 Storing data in MongoDB
 
-``` $ npm install
+``` 
+$ npm install
 
-$ node app.js ```
+$ node app.js
+```
 
 (To try out, upload the given demo.csv file.)
 
