@@ -8,15 +8,7 @@ Storing data in MongoDB
 
 (To try out, upload the given demo.csv file.)
 
-id,name,city,age
-
-1,john,delhi,25
-
-2,carl,london,22
-
-3,rose,new york,30
-
-4,max,tokyo,35
+<img width="337" alt="image" src="https://user-images.githubusercontent.com/86217607/165720889-b9c02574-7077-47e6-a99c-9fafb539e817.png">
 
 Parsed data:
 
