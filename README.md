@@ -9,9 +9,13 @@ Storing data in MongoDB
 (To try out, upload the given demo.csv file.)
 
 id,name,city,age
+
 1,john,delhi,25
+
 2,carl,london,22
+
 3,rose,new york,30
+
 4,max,tokyo,35
 
 Parsed data:
